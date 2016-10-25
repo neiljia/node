@@ -1,0 +1,39 @@
+{
+  "name": "names",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "cheerio": "^0.20.0",
+    "cookie-parser": "^1.4.3",
+    "eventproxy": "^0.3.5",
+    "events": "^1.1.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "gulp": "^3.9.1",
+    "http": "0.0.0",
+    "iconv-lite": "^0.4.13",
+    "main": "^1.0.1",
+    "markdown": "^0.5.0",
+    "markdown-js": "0.0.3",
+    "marked": "^0.3.6",
+    "mysql": "^2.11.1",
+    "querystring": "^0.2.0",
+    "should": "^10.0.0",
+    "superagent": "^2.1.0",
+    "url": "^0.11.0",
+    "util": "^0.10.3",
+    "utility": "^1.8.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.14.3",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
